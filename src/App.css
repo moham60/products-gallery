@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+
+.active{
+    background-color: #155DFC;
+    color: white;
+}
