@@ -29,4 +29,17 @@ A fully responsive React web app that allows users to browse, sort, and filter p
 - **Heroicons** – Beautiful icons
 
 ## 📁 Folder Structure
+src/
+├── Components/
+│ ├── Navbar/
+│ ├── ProductCard/
+│ ├── Rating/
+│ └── ...
+├── Contexts/
+│ └── CartContext.jsx
+├── Pages/
+│ ├── Home.jsx
+│ └── Cart.jsx
+├── App.jsx
+└── main.jsx
 
