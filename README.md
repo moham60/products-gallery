@@ -6,14 +6,6 @@ A fully responsive React web app that allows users to browse, sort, and filter p
 
 🔗 [Check out the live site](https://moham60.github.io/products-gallery/)
 
-## 🖼️ Screenshots
-
-<table>
-  <tr>
-    <td><img src="https://github.com/moham60/products-gallery/assets/demo-1.png" alt="Home Page" width="300"/></td>
-    <td><img src="https://github.com/moham60/products-gallery/assets/demo-2.png" alt="Dark Mode" width="300"/></td>
-  </tr>
-</table>
 
 > *(Replace the above image links with real screenshots or use relative paths if uploaded)*
 
